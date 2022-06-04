@@ -1,6 +1,6 @@
 import requests 
 
-endpoint = "http://localhost:8000/api/products/1/"
+endpoint = "http://localhost:8000/api/products/2/"
 
 
 # post_response = requests.post(endpoint, json={"title": "hello world"})
